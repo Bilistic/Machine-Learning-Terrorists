@@ -1,7 +1,24 @@
+# Machine Learning Proposal
+
+## Joshua R Nuttall
+
+## 1 Predicting Organizations Responsible for terrorist attacks
+
+## 1.1 Goal
+
+In the project proposed I wish to do a comparative analysis on different models
+and pre-processing methods to help in predicting organizations responsible for
+acts of terrorism.
+
+## 1.2 Data set and technology
+
+The data set given is that of the global terrorism database, this database has in-
+formation on over 170,000 terrorist attacks from 1970 to the year 2017, of which
+83,000 are bombings, 18,000 assassinations, and 11,000 kidnappings. As well
+as models for consideration being K-Nearest Neighbour, Naive Bayes, Decision
+Tree and Random Forrest.
+
 # Machine Learning Report
-
-## Joshua Nuttall R
-
 
 ## Contents
 
@@ -233,7 +250,3 @@ Haider Butt, Usman Qamar Department of Computer Engineering, College
 of Electrical and Mechanical Engineering National University of Sciences
 and Technology Rawalpindi, Pakistan (2014)
 
-
-
-This is a offline tool, your data stays locally and is not send to any server!
-Feedback & Bug Reports

@@ -221,6 +221,8 @@ may now be ISIL.
 Taking from our results and using the Random Forest we can produce a confu-
 sion matrix as follows and giving us an accuracy of 96.1 percent:
 
+![Alt text](foo.png?raw=true "Title")
+
 
 ## 4 Conclusion
 
